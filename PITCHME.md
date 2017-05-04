@@ -20,14 +20,14 @@
 
 +++
 
-## La mejor placa FPGA
+### La mejor placa FPGA
 # DE LA HISTORIA <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/AlhambraFestivales-curdiales.png
 
 #### <span style="color: #000000">Exacto. La... </span> <!-- .element: class="fragment" -->
 
-# <span style="color: #000000">IceZUM Alhambra</span> <!-- .element: class="fragment" -->
+# <span style="color: #111111">IceZUM Alhambra</span> <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg
 
