@@ -10,9 +10,13 @@
 
 ## Un portátil
 
-+++?image=http://memeshappen.com/media/created/-What-meme-12129.jpg
++++
 
-+++?image=http://zdnet4.cbsistatic.com/hub/i/2017/02/03/e7539f37-a7f5-4afe-ae98-e227a3c77dcf/00d737230fb87690ef5f3777d9fa75af/olimexteres.jpg
+![Wat?](http://memeshappen.com/media/created/-What-meme-12129.jpg)
+
++++
+
+![Portátil](http://zdnet4.cbsistatic.com/hub/i/2017/02/03/e7539f37-a7f5-4afe-ae98-e227a3c77dcf/00d737230fb87690ef5f3777d9fa75af/olimexteres.jpg)
 
 +++
 
@@ -21,9 +25,9 @@
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/AlhambraFestivales-curdiales.png
 
-#### Exacto. La... <!-- .element: class="fragment" -->
+#### <span style="color: #000000">Exacto. La... </span> <!-- .element: class="fragment" -->
 
-# IceZUM Alhambra <!-- .element: class="fragment" -->
+# <span style="color: #000000">IceZUM Alhambra</span> <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg
 
