@@ -18,15 +18,15 @@
 
 ---
 
-- Uno |
-- Dos |
-- Tres |
+* Uno |
+* Dos |
+* Tres |
 - Cuatro |
 
 ---
 
 
-```
+```cpp
 int foo(double bar) {
     MyClass object(1, 2, 3.5, 'a', "asjkdl");
     object = baz();
