@@ -18,10 +18,10 @@
 
 ---
 
-* Uno |
-* Dos |
-* Tres |
-* Cuatro |
+- Uno |
+- Dos |
+- Tres |
+- Cuatro |
 
 ---
 
