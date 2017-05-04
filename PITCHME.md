@@ -25,11 +25,11 @@
 
 ---
 
-Uno <!-- .element: class="fragment" -->
+#### Uno <!-- .element: class="fragment" -->
 
-Dos <!-- .element: class="fragment" -->
+#### Dos <!-- .element: class="fragment" -->
 
-Tres <!-- .element: class="fragment" -->
+#### Tres <!-- .element: class="fragment" -->
 
 ---
 
