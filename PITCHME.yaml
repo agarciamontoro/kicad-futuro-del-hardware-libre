@@ -3,3 +3,4 @@ highlight : zenburn
 theme : moon
 mousewheel : false
 vertical-center : true
+transition : fade
