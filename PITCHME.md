@@ -18,9 +18,9 @@
 
 ---
 
-* Uno |
-* Dos |
-* Tres |
+- Uno |
+- Dos |
+- Tres |
 - Cuatro |
 
 ---
@@ -32,6 +32,14 @@ int foo(double bar) {
     object = baz();
 }
 ```
+
+---
+
+```python
+def foo(bar):
+    pass
+```
+
 
 ---
 
