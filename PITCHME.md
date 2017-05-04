@@ -26,7 +26,9 @@
 ---
 
 Uno <!-- .element: class="fragment" -->
+
 Dos <!-- .element: class="fragment" -->
+
 Tres <!-- .element: class="fragment" -->
 
 ---
