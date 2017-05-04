@@ -21,8 +21,7 @@
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/AlhambraFestivales-curdiales.png
 
-
-Exacto, la...
+#### Exacto. La... <!-- .element: class="fragment" -->
 
 # IceZUM Alhambra <!-- .element: class="fragment" -->
 
