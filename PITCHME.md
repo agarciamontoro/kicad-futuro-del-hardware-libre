@@ -3,3 +3,40 @@
 ### El futuro del hardware libre
 
 ---
+
+# Uno
+## Dos
+### Tres
+#### Cuatro
+
+---
+
+1. Uno
+2. Dos
+3. Tres
+4. Cuatro
+
+---
+
+* Uno
+* Dos
+* Tres
+* Cuatro
+
+---
+
+
+```
+int foo(double bar) {
+    MyClass object(1, 2, 3.5, 'a', "asjkdl");
+    object = baz();
+}
+```
+
+---
+
+![Cartoon](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
+
+---?video=https://media.giphy.com/media/6vWVzDv19i3MQ/giphy.gif
+
+---
