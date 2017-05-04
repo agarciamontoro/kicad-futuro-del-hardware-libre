@@ -1,0 +1,5 @@
+theme-override : assets/css/PITCHME.css
+highlight : zenburn
+theme : moon
+mousewheel : false
+vertical-center : true

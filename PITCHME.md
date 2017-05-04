@@ -1,3 +1,5 @@
 # KiCad
 
-## El futuro del hardware libre
+### El futuro del hardware libre
+
+---
