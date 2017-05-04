@@ -37,6 +37,8 @@ int foo(double bar) {
 
 ![Cartoon](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
 
----?video=https://media.giphy.com/media/6vWVzDv19i3MQ/giphy.gif
+---
+
+![Image-Absolute](https://media.giphy.com/media/6vWVzDv19i3MQ/giphy.gif)
 
 ---
