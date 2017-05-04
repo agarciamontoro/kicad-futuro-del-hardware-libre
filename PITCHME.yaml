@@ -4,4 +4,4 @@ theme : moon
 mousewheel : false
 vertical-center : true
 transition : fade
-background-size : cover
+background-size : contain
