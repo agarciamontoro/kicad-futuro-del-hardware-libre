@@ -25,6 +25,12 @@
 
 ---
 
+Uno <!-- .element: class="fragment" -->
+Dos <!-- .element: class="fragment" -->
+Tres <!-- .element: class="fragment" -->
+
+---
+
 
 ```cpp
 int foo(double bar) {
@@ -50,3 +56,8 @@ def foo(bar):
 ![Image-Absolute](https://media.giphy.com/media/6vWVzDv19i3MQ/giphy.gif)
 
 ---
+
+
+---
+
+# Gracias
