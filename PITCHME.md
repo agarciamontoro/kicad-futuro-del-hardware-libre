@@ -128,11 +128,11 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++
 
-<h3 style="color: #fdb833" class="fragment">Proyecto de [OLIMEX](https://www.olimex.com/Products/DIY-Laptop/)</h3>
+<h3 class="fragment">Proyecto de [OLIMEX](https://www.olimex.com/Products/DIY-Laptop/)</h3>
 
-<h3 style="color: #fdb833"class="fragment">Software [libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/SOFTWARE)</h3>
+<h3 class="fragment">Software [libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/SOFTWARE)</h3>
 
-<h3 style="color: #fdb833" class="fragment">Hardware [libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/SOFTWARE)</h3>
+<h3 class="fragment">Hardware [libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/SOFTWARE)</h3>
 
 +++
 
@@ -156,6 +156,26 @@ Cosas que molan: laptop, icezum, nice things.
 <h3 class="fragment">diseño [libre](https://github.com/FPGAwars/icezum/tree/master/src-kicad)</h3>
 
 <h3 class="fragment">gran [comunidad](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre) y [documentación](https://github.com/FPGAwars/icezum/wiki) detrás</h3>
+
++++?image=https://www.bitcraze.io/images/frontpage/front-page-portal-pic-5.jpg
+
+# [Cacharros](https://www.bitcraze.io/) que vuelan
+
++++?image=http://blog.komar.be/wp-content/uploads/2013/02/3.jpg
+
+# [Cacharros](http://blog.komar.be/projects/gh60-programmable-keyboard/) que escriben
+
++++?image=https://plugg.ee/wp-content/uploads/2016/11/cropped-R1000A-web_header2.jpg
+
+# [Cacharros](https://plugg.ee/) que controlan otros cacharros
+
++++?image=https://cdn.hackaday.io/images/3454001411319169100.JPG
+
+# [Cacharros](https://hackaday.io/project/86-mooltipass-offline-password-keeper) para guardar contraseñas
+
++++
+
+# Todos los [cacharros](http://kicad-pcb.org/made-with-kicad/) que podáis imaginar
 
 ---
 
