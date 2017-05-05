@@ -127,12 +127,13 @@ Descripción de la comunidad tan guay.
 
 # La era de <span style="color: #fdb833">la comunidad</span>
 
-+++?video=https://www.youtube.com/embed/CCG4daPvuVI?t=377
++++
 
-+++?video=https://www.youtube.com/embed/chejn7dqpfQ?t=428
+![Push and Shove router](https://www.youtube.com/embed/CCG4daPvuVI?t=377)
 
-+++?video=https://vimeo.com/99235812#t=120s
+![Length tuning]https://www.youtube.com/embed/chejn7dqpfQ?t=428
 
+![Footprint editor](https://vimeo.com/99235812#t=120s)
 
 
 ---
