@@ -135,7 +135,7 @@ Cosas que molan: laptop, icezum, nice things.
 
 #### <span style="color: #000000">Exacto </span> <!-- .element: class="fragment" -->
 
-# <span style="color: #002B36">La IceZUM Alhambra</span> <!-- .element: class="fragment" -->
+# <span style="color: #fdb833">La IceZUM Alhambra</span> <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg
 
