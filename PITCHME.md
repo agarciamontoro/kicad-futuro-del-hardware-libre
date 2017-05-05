@@ -186,15 +186,15 @@ Cosas que molan: laptop, icezum, nice things.
 
 # <span style="color: #fdb833">Comunidad</span>
 
-#### <span class="fragment"><i class="fa fa-code"></i> [launchpad.net/kicad](https://launchpad.net/kicad)</span>
+#### <span class="fragment"><i class="fa fa-code fa-4x"></i> [launchpad.net/kicad](https://launchpad.net/kicad)</span>
 
-#### <span class="fragment"><i class="fa fa-envelope"></i> [kicad-developers](http://lists.launchpad.net/kicad-developers)</span>
+#### <span class="fragment"><i class="fa fa-envelope fa-4x"></i> [kicad-developers](http://lists.launchpad.net/kicad-developers)</span>
 
-#### <span class="fragment"><i class="fa fa-hashtag"></i> IRC - kicad</span>
+#### <span class="fragment"><i class="fa fa-hashtag fa-4x"></i> IRC - kicad</span>
 
-#### <span class="fragment"><i class="fa fa-users"></i> [forum.kicad.info](https://forum.kicad.info)</span>
+#### <span class="fragment"><i class="fa fa-users fa-4x"></i> [forum.kicad.info](https://forum.kicad.info)</span>
 
-#### <span class="fragment"><i class="fa fa-github"></i> [github.com/kicad](https://github.com/kicad)</span>
+#### <span class="fragment"><i class="fa fa-github fa-4x"></i> [github.com/kicad](https://github.com/kicad)</span>
 
 +++
 
@@ -230,7 +230,7 @@ private:
 
 +++
 
-## Magia <span style="color: #000000" class="fragment">negra</span>
+## Magia <span style="color: #111111">negra</span>
 
 ```cpp
 BOARD_COMMIT commit( frame );
@@ -257,6 +257,14 @@ board = pcbnew.GetBoard()
 +++
 
 # Más recursos
+
+### <span class="fragment">[Listado](http://docs.kicad-pcb.org/doxygen/annotated.html) de clases</span>
+
+### <span class="fragment">[Listado](http://kicad-pcb.org/help/tutorials/) de tutoriales</span>
+
+### <span class="fragment">[Tutorial](http://kicad-source-mirror.readthedocs.io/en/latest/Documentation/development/tool-framework/) para la creación de nuevas herramientas</span>
+
+### <span class="fragment">[Documentación](http://kicad-pcb.org/contribute/developers/) para desarrolladores</span>
 
 ---
 
