@@ -8,16 +8,16 @@
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_eeschema.png
 
-## Editor de esquemas <!-- .element: class="fragment" -->
+# <span style="color: #222222">Editor de esquemas</span> <!-- .element: class="fragment" -->
 
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_pcbnew.png
 
-## Diseño de la placa <!-- .element: class="fragment" -->
+# Diseño de la placa <!-- .element: class="fragment" -->
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_3dviewer.png
 
-## Visualizador 3D <!-- .element: class="fragment" -->
+# Visualizador 3D <!-- .element: class="fragment" -->
 
 +++
 
