@@ -114,8 +114,6 @@ Descripción de la comunidad tan guay.
 
 +++?image=https://www.wired.com/images_blogs/underwire/2014/02/michael-jackson-eating-popcorn.gif
 
-+++
-
 ### El proyecto <span style="color: #fdb833">no para</span> de crecer,
 ## hasta que un día llega... <!-- .element: class="fragment" -->
 
