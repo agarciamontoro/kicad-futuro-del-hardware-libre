@@ -184,7 +184,7 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++
 
-# Comunidad
+# <span style="color: #fdb833">Comunidad</span>
 
 ### <i class="fa fa-code"></i> [launchpad.net/kicad](https://launchpad.net/kicad)
 
