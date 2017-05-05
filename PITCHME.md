@@ -48,9 +48,9 @@ Note:
 
 +++?image=https://c1.staticflickr.com/4/3179/2924229115_0ab2d7ea4a_b.jpg
 
-#### Lo que nos interesa:
+#### <span style="color: #fdb833">Lo que nos interesa:</span>
 
-# Diseño electrónico <!-- .element: class="fragment" -->
+# <span style="color: #fdb833" class="fragment">Diseño electrónico</span>
 
 Note:
 Hablar de qué es el diseño electrónico
@@ -90,7 +90,8 @@ Descripción de la comunidad tan guay.
 
 +++?image=https://c1.staticflickr.com/2/1676/25292996336_25851362bf_b.jpg
 
-# CERN
+### Hasta que llegó...
+# <span style="color: #fdb833" class="fragment">EL CERN</span>
 
 ---
 
