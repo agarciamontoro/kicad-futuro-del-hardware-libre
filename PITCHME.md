@@ -46,11 +46,14 @@ Note:
 
 # Impresión 3D <!-- .element: class="fragment" -->
 
-+++?image=https://c1.staticflickr.com/8/7190/6832593582_ea90252502_b.jpg
++++?image=https://c1.staticflickr.com/4/3179/2924229115_0ab2d7ea4a_b.jpg
 
 #### Lo que nos interesa:
 
 # Diseño electrónico <!-- .element: class="fragment" -->
+
+Note:
+Hablar de qué es el diseño electrónico
 
 ---
 
@@ -58,11 +61,11 @@ Note:
 ### Software <span style="color: #fdb833">libre</span> para <span style="color: #fdb833">liberar</span> hardware
 
 Note:
-Descripción de diseño electrónico y de KiCad.
+Descripción de KiCad.
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_eeschema.png
 
-# <span style="color: #222222">Editor de esquemas</span> <!-- .element: class="fragment" -->
+# <span style="color: #222222">Edición de esquemas</span> <!-- .element: class="fragment" -->
 
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_pcbnew.png
@@ -71,7 +74,7 @@ Descripción de diseño electrónico y de KiCad.
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_3dviewer.png
 
-# Visualizador 3D <!-- .element: class="fragment" -->
+# Visualización 3D <!-- .element: class="fragment" -->
 
 +++
 
@@ -84,6 +87,10 @@ Descripción de diseño electrónico y de KiCad.
 Note:
 Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
 Descripción de la comunidad tan guay.
+
++++?image=https://c1.staticflickr.com/2/1676/25292996336_25851362bf_b.jpg
+
+# CERN
 
 ---
 
