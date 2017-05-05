@@ -212,7 +212,7 @@ make && make install
 
 +++
 
-# Nuevas herramientas
+## Nuevas herramientas
 
 ```cpp
 class NEW_TOOL : public PCB_TOOL
@@ -227,6 +227,36 @@ private:
     int eventHandler( const TOOL_EVENT& aEvent );
 };
 ```
+
++++
+
+## Magia <span style="color: #000000" class="fragment">negra</span>
+
+```cpp
+BOARD_COMMIT commit( frame );
+commit.Add( new TRACK( ... ) )
+commit.Modify( module );
+
+// perform module modifications
+
+commit.Remove( drawing );
+commit.Push( "Updated board" );
+```
+
++++
+
+## Espera, qué, ¿<span style="color: #fdb833">python</span>?
+
+```python
+import pcbnew
+
+# Objeto para manejar la placa
+board = pcbnew.GetBoard()
+```
+
++++
+
+# Más recursos
 
 ---
 
