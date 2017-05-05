@@ -90,7 +90,7 @@ Note:
 Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
 Descripción de la comunidad tan guay.
 
-+++?image=assets/img/stars.jpg
++++?image=https://c1.staticflickr.com/8/7055/6923443595_8cedeb571d_b.jpg
 
 # Hace <span style="color: #fdb833">mucho</span>, <span style="color: #fdb833">mucho</span> tiempo
 
