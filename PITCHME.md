@@ -139,13 +139,11 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg
 
-+++
-
 # Placa <span style="color: #fdb833">FPGA</span> libre
 
 <h3 class="fragment">creada por [FPGAWars](http://fpgawars.github.io/)</h3>
 
-<h3 class="fragment">con diseño en KiCad [liberado](https://github.com/FPGAwars/icezum/tree/master/src-kicad)</h3>
+<h3 class="fragment">diseño [libre](https://github.com/FPGAwars/icezum/tree/master/src-kicad)</h3>
 
 <h3 class="fragment">gran [comunidad](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre) y [documentación](https://github.com/FPGAwars/icezum/wiki) detrás</h3>
 
