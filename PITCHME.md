@@ -96,9 +96,9 @@ Descripción de la comunidad tan guay.
 
 +++
 
-# <span class="fragment"><span style="color: #ee0000">No había control de versiones</span>
-# <span class="fragment"><span style="color: #ee0000">No había comunidad</span>
-# <span class="fragment">Se liberaba el código en un .tar</span>
+### <span class="fragment"><span style="color: #ee0000">No</span> había control de versiones</span>
+### <span class="fragment"><span style="color: #ee0000">No</span> había comunidad</span>
+### <span class="fragment">Se liberaba el código en un .tar</span>
 
 +++?image=https://media.giphy.com/media/kR0S22SGVDm4o/giphy.gif
 
