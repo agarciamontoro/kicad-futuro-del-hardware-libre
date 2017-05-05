@@ -40,8 +40,6 @@ Note:
 
 <img style="width: 20%; position: absolute; bottom: 0; right: 0" src="https://stallman.org/photos/australia/sydney-cockatiels/157-5746_IMG.JPG" />
 
-+++
-
 +++?image=https://c1.staticflickr.com/7/6225/6407709129_819361f41d_b.jpg
 
 # Comunidad maker <!-- .element: class="fragment" -->
@@ -92,6 +90,15 @@ Note:
 Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
 Descripción de la comunidad tan guay.
 
++++
+
+Al principio de los tiempos...
+
+- Jean Pierre
+- No había control de versiones |
+- No había comunidad |
+- Se liberaba el código en un .tar |
+
 +++?image=https://c1.staticflickr.com/2/1676/25292996336_25851362bf_b.jpg
 
 #### Hasta que llegó...
@@ -109,7 +116,7 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++
 
-# Un portátil
+# Un portátil <span style="color: #fdb833">completamente</span> libre
 
 +++
 
@@ -126,9 +133,9 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/AlhambraFestivales-curdiales.png
 
-#### <span style="color: #000000">Exacto. La... </span> <!-- .element: class="fragment" -->
+#### <span style="color: #000000">Exacto </span> <!-- .element: class="fragment" -->
 
-# <span style="color: #fdb833">IceZUM Alhambra</span> <!-- .element: class="fragment" -->
+# <span style="color: #fdb833">La IceZUM Alhambra</span> <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg
 
