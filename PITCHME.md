@@ -125,7 +125,7 @@ Descripción de la comunidad tan guay.
 
 +++
 
-# <i class="fa fa-git"></i>
+# <i class="fa fa-git-square"></i> <i class="fa fa-github-square"></i>
 
 ---
 
@@ -207,15 +207,15 @@ Cosas que molan: laptop, icezum, nice things.
 
 # <span style="color: #fdb833">Comunidad</span>
 
-#### <span class="fragment"><i class="fa fa-code fa-lg"></i> [launchpad.net/kicad](https://launchpad.net/kicad)</span>
+#### <span class="fragment"><i class="fa fa-code fa-lg"></i>  [launchpad.net/kicad](https://launchpad.net/kicad)</span>
 
-#### <span class="fragment"><i class="fa fa-envelope fa-lg"></i> [kicad-developers](http://lists.launchpad.net/kicad-developers)</span>
+#### <span class="fragment"><i class="fa fa-envelope fa-lg"></i>  [kicad-developers](http://lists.launchpad.net/kicad-developers)</span>
 
-#### <span class="fragment"><i class="fa fa-hashtag fa-lg"></i> IRC - kicad</span>
+#### <span class="fragment"><i class="fa fa-hashtag fa-lg"></i>  IRC - kicad</span>
 
-#### <span class="fragment"><i class="fa fa-users fa-lg"></i> [forum.kicad.info](https://forum.kicad.info)</span>
+#### <span class="fragment"><i class="fa fa-users fa-lg"></i>  [forum.kicad.info](https://forum.kicad.info)</span>
 
-#### <span class="fragment"><i class="fa fa-github fa-lg"></i> [github.com/kicad](https://github.com/kicad)</span>
+#### <span class="fragment"><i class="fa fa-github fa-lg"></i>  [github.com/kicad](https://github.com/kicad)</span>
 
 +++
 
