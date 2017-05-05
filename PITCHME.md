@@ -311,6 +311,6 @@ board = pcbnew.GetBoard()
 <i class="fa fa-github"></i>  agarciamontoro
 
 <i class="fa fa-user"></i>  xiroux@kosmos.social
-
+<br />
 <i class="fa fa-envelope"></i>  alejandro.garciamontoro@gmail.com
 </div>
