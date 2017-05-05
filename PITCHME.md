@@ -10,6 +10,33 @@
 Note:
 ¿Qué es el hardware libre? Comunidad maker, impresoras 3D, repositorios de diseños 3D...
 
++++
+
+### Software libre
+
+
+###### Usarlo con cualquier propósito. <!-- .element: class="fragment" -->
+
+###### Estudiarlo y modificarlo a nuestro antojo. <!-- .element: class="fragment" -->
+
+###### Compartirlo. <!-- .element: class="fragment" -->
+
+###### Compartir lo modificado. <!-- .element: class="fragment" -->
+
++++
+
+### <span style="color: #fdb833">Hardware</span> libre
+
+
+###### Usarlo con cualquier propósito. <!-- .element: class="fragment" -->
+
+###### Estudiarlo y modificarlo a nuestro antojo. <!-- .element: class="fragment" -->
+
+###### Compartirlo. <!-- .element: class="fragment" -->
+
+###### Compartir lo modificado. <!-- .element: class="fragment" -->
+
+
 ---
 
 ## KiCad
