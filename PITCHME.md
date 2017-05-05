@@ -93,6 +93,8 @@ Descripción de la comunidad tan guay.
 #### Hasta que llegó...
 # <span class="fragment">EL CERN</span>
 
++++?image=https://m.popkey.co/574b46/WxVke.gif
+
 ---
 
 ## KiCad
