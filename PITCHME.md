@@ -48,9 +48,9 @@ Note:
 
 +++?image=https://c1.staticflickr.com/8/7190/6832593582_ea90252502_b.jpg
 
-#### Lo que nos interesa: <!-- .element: class="fragment" -->
+#### Lo que nos interesa:
 
-# <span style="color: #fdb833" class="fragment">Diseño electrónico</span>
+# Diseño electrónico <!-- .element: class="fragment" -->
 
 ---
 
