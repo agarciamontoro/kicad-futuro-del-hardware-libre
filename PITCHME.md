@@ -26,7 +26,7 @@
 
 +++
 
-![Video](https://youtu.be/D3it8wyJef0)
+![Video](https://www.youtube.com/embed/D3it8wyJef0?start=15)
 
 ---
 
