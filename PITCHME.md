@@ -18,49 +18,6 @@ Note:
 Note:
 Descripción de diseño electrónico y de KiCad.
 
----
-
-# Los <span style="color: #fdb833">entresijos</span> de KiCad
-
-Note:
-Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
-Descripción de la comunidad tan guay.
-
----
-
-## KiCad
-# <span style="color: #fdb833" class="fragment">mola demasiado</span>
-
-Note:
-Cosas que molan: laptop, icezum, nice things.
-
----
-
-## Va, mola, pero
-# <span class="fragment">¿cómo <span style="color: #fdb833">contribuyo</span>?</span>
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# ¿Qué es KiCad?
-
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_eeschema.png
 
 # <span style="color: #222222">Editor de esquemas</span> <!-- .element: class="fragment" -->
@@ -80,7 +37,19 @@ Cosas que molan: laptop, icezum, nice things.
 
 ---
 
-# Cosas que molan
+# Los <span style="color: #fdb833">entresijos</span> de KiCad
+
+Note:
+Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
+Descripción de la comunidad tan guay.
+
+---
+
+## KiCad
+# <span style="color: #fdb833" class="fragment">mola demasiado</span>
+
+Note:
+Cosas que molan: laptop, icezum, nice things.
 
 +++
 
@@ -106,6 +75,25 @@ Cosas que molan: laptop, icezum, nice things.
 # <span style="color: #111111">IceZUM Alhambra</span> <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg
+
+
+---
+
+## Va, mola, pero
+# <span class="fragment">¿cómo <span style="color: #fdb833">contribuyo</span>?</span>
+
+---
+
+
+
+
+
+
+
+<!--
+
+# Cosas que molan
+
 
 
 
@@ -145,11 +133,11 @@ Cosas que molan: laptop, icezum, nice things.
 
 ---
 
-#### Uno <!-- .element: class="fragment" -->
+#### Uno <!-- .element: class="fragment" --
 
-#### Dos <!-- .element: class="fragment" -->
+#### Dos <!-- .element: class="fragment" --
 
-#### Tres <!-- .element: class="fragment" -->
+#### Tres <!-- .element: class="fragment" --
 
 ---
 
@@ -177,6 +165,8 @@ def foo(bar):
 
 ---
 
+
+-->
 
 ---
 
