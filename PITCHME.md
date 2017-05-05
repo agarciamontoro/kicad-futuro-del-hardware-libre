@@ -12,29 +12,29 @@ Note:
 
 +++
 
-### Software libre
+### <span style="text-decoration: underline;">Software libre</span>
 
 
-###### Usarlo con cualquier propósito. <!-- .element: class="fragment" -->
+#### Usarlo con cualquier propósito. <!-- .element: class="fragment" -->
 
-###### Estudiarlo y modificarlo a nuestro antojo. <!-- .element: class="fragment" -->
+#### Estudiarlo y modificarlo a nuestro antojo. <!-- .element: class="fragment" -->
 
-###### Compartirlo. <!-- .element: class="fragment" -->
+#### Compartirlo. <!-- .element: class="fragment" -->
 
-###### Compartir lo modificado. <!-- .element: class="fragment" -->
+#### Compartir lo modificado. <!-- .element: class="fragment" -->
 
 +++
 
-### <span style="color: #fdb833">Hardware</span> libre
+### <span style="text-decoration: underline;"><span style="color: #fdb833">Hardware</span> libre</span>
 
 
-###### Usarlo con cualquier propósito. <!-- .element: class="fragment" -->
+#### Usarlo con cualquier propósito.
 
-###### Estudiarlo y modificarlo a nuestro antojo. <!-- .element: class="fragment" -->
+#### Estudiarlo y modificarlo a nuestro antojo.
 
-###### Compartirlo. <!-- .element: class="fragment" -->
+#### Compartirlo.
 
-###### Compartir lo modificado. <!-- .element: class="fragment" -->
+#### Compartir lo modificado.
 
 
 ---
