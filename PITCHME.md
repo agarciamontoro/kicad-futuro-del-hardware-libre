@@ -96,7 +96,7 @@ Descripción de la comunidad tan guay.
 
 +++
 
-# La <span style="color: #fdb833">era</span> Jean-Pierre Charras
+## La <span style="color: #fdb833">era</span> Jean-Pierre Charras
 
 ### <span class="fragment"><span style="color: #ee0000">No</span> había control de versiones</span>
 ### <span class="fragment"><span style="color: #ee0000">No</span> había comunidad</span>
@@ -106,7 +106,7 @@ Descripción de la comunidad tan guay.
 
 +++
 
-# La <span style="color: #fdb833">era</span> Wayne Stambaugh I
+## La <span style="color: #fdb833">era</span> Wayne Stambaugh
 
 ### <span class="fragment">Se añade control de versiones</span>
 ### <span class="fragment">Se empiezan a incorporar colaboradores</span>
@@ -124,6 +124,8 @@ Descripción de la comunidad tan guay.
 # <span class="fragment">EL CERN</span>
 
 +++?image=http://www.reactiongifs.com/r/mog2.gif
+
+
 
 ---
 
