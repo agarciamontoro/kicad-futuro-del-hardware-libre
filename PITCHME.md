@@ -40,8 +40,17 @@ Note:
 
 +++?image=https://c1.staticflickr.com/7/6225/6407709129_819361f41d_b.jpg
 
-# Comunidad maker
+# Comunidad maker <!-- .element: class="fragment" -->
 
++++?image=https://c1.staticflickr.com/8/7445/10299684525_72ef568d86_b.jpg
+
+# Impresión 3D <!-- .element: class="fragment" -->
+
++++?image=https://c1.staticflickr.com/8/7190/6832593582_ea90252502_b.jpg
+
+#### Lo que nos interesa: <!-- .element: class="fragment" -->
+
+# Diseño electrónico <!-- .element: class="fragment" -->
 
 ---
 
