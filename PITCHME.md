@@ -28,7 +28,7 @@ Descripción de la comunidad tan guay.
 ---
 
 ## KiCad
-### <span style="color: #fdb833" class="fragment">mola demasiado</span>
+# <span style="color: #fdb833" class="fragment">mola demasiado</span>
 
 Note:
 Cosas que molan: laptop, icezum, nice things.
@@ -36,7 +36,7 @@ Cosas que molan: laptop, icezum, nice things.
 ---
 
 ## Va, mola, pero
-## <span class="fragment">¿cómo <span style="color: #fdb833" class="fragment">contribuyo</span></span>?
+# <span class="fragment">¿cómo <span style="color: #fdb833">contribuyo</span>?</span>
 
 ---
 
