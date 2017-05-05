@@ -196,6 +196,38 @@ Cosas que molan: laptop, icezum, nice things.
 
 #### <span class="fragment"><i class="fa fa-github"></i> [github.com/kicad](https://github.com/kicad)</span>
 
++++
+
+# Compilando
+
+```bash
+git clone https://git.launchpad.net/kicad
+mkdir kicad/build && cd build
+cmake -DKICAD_SCRIPTING=ON \\
+      -DKICAD_SCRIPTING_MODULES=ON \\
+      -DKICAD_SCRIPTING_WXPYTHON=ON \\
+      -DKICAD_SCRIPTING_ACTION_MENU=ON ..
+make && make install
+```
+
++++
+
+# Nuevas herramientas
+
+```cpp
+class NEW_TOOL : public PCB_TOOL
+{
+public:
+    NEW_TOOL();
+    ~NEW_TOOL();
+    void Reset( RESET_REASON aReason );
+    bool Init();
+    void SetTransitions();
+private:
+    int eventHandler( const TOOL_EVENT& aEvent );
+};
+```
+
 ---
 
 # Gracias
