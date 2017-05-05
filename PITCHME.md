@@ -186,15 +186,15 @@ Cosas que molan: laptop, icezum, nice things.
 
 # <span style="color: #fdb833">Comunidad</span>
 
-#### <span class="fragment"><i class="fa fa-code fa-4x"></i> [launchpad.net/kicad](https://launchpad.net/kicad)</span>
+#### <span class="fragment"><i class="fa fa-code fa-2x"></i> [launchpad.net/kicad](https://launchpad.net/kicad)</span>
 
-#### <span class="fragment"><i class="fa fa-envelope fa-4x"></i> [kicad-developers](http://lists.launchpad.net/kicad-developers)</span>
+#### <span class="fragment"><i class="fa fa-envelope fa-2x"></i> [kicad-developers](http://lists.launchpad.net/kicad-developers)</span>
 
-#### <span class="fragment"><i class="fa fa-hashtag fa-4x"></i> IRC - kicad</span>
+#### <span class="fragment"><i class="fa fa-hashtag fa-2x"></i> IRC - kicad</span>
 
-#### <span class="fragment"><i class="fa fa-users fa-4x"></i> [forum.kicad.info](https://forum.kicad.info)</span>
+#### <span class="fragment"><i class="fa fa-users fa-2x"></i> [forum.kicad.info](https://forum.kicad.info)</span>
 
-#### <span class="fragment"><i class="fa fa-github fa-4x"></i> [github.com/kicad](https://github.com/kicad)</span>
+#### <span class="fragment"><i class="fa fa-github fa-2x"></i> [github.com/kicad](https://github.com/kicad)</span>
 
 +++
 
