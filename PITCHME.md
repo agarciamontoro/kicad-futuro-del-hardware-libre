@@ -4,25 +4,20 @@
 
 ---
 
-# ¿Para qué sirve KiCad?
-
-+++
-
-## Editor de esquemas
+# ¿Qué es KiCad?
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_eeschema.png
 
-+++
+## Editor de esquemas <!-- .element: class="fragment" -->
 
-## Diseño de la placa
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_pcbnew.png
 
-+++
-
-## Visualizador 3D
+## Diseño de la placa <!-- .element: class="fragment" -->
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_3dviewer.png
+
+## Visualizador 3D <!-- .element: class="fragment" -->
 
 +++
 
