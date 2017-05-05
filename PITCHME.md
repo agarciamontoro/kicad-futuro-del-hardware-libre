@@ -125,7 +125,15 @@ Descripción de la comunidad tan guay.
 
 +++
 
-# <i class="fa fa-git-square"></i> <i class="fa fa-github-square"></i>
+# La era de <span style="color: #fdb833">la comunidad</span>
+
++++?video=https://www.youtube.com/embed/CCG4daPvuVI?t=377
+
++++?video=https://www.youtube.com/embed/chejn7dqpfQ?t=428
+
++++?video=https://vimeo.com/99235812#t=120s
+
+
 
 ---
 
