@@ -53,7 +53,7 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++
 
-## Un portátil
+# Un portátil
 
 +++
 
@@ -65,108 +65,21 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++
 
-### La mejor placa FPGA
+## La mejor placa FPGA
 # DE LA HISTORIA <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/AlhambraFestivales-curdiales.png
 
 #### <span style="color: #000000">Exacto. La... </span> <!-- .element: class="fragment" -->
 
-# <span style="color: #111111">IceZUM Alhambra</span> <!-- .element: class="fragment" -->
+# <span style="color: #fdb833">IceZUM Alhambra</span> <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg
-
 
 ---
 
 ## Va, mola, pero
 # <span class="fragment">¿cómo <span style="color: #fdb833">contribuyo</span>?</span>
-
----
-
-
-
-
-
-
-
-<!--
-
-# Cosas que molan
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-# Uno
-## Dos
-### Tres
-#### Cuatro
-
----
-
-1. Uno
-2. Dos
-3. Tres
-4. Cuatro
-
----
-
-- Uno |
-- Dos |
-- Tres |
-- Cuatro |
-
----
-
-#### Uno <!-- .element: class="fragment" --
-
-#### Dos <!-- .element: class="fragment" --
-
-#### Tres <!-- .element: class="fragment" --
-
----
-
-
-```cpp
-int foo(double bar) {
-    MyClass object(1, 2, 3.5, 'a', "asjkdl");
-    object = baz();
-}
-```
-
-```python
-def foo(bar):
-    pass
-```
-
-
----
-
-![Cartoon](http://clips.vorwaerts-gmbh.de/big_buck_bunny.mp4)
-
----
-
-![Image-Absolute](https://media.giphy.com/media/6vWVzDv19i3MQ/giphy.gif)
-
----
-
-
--->
 
 ---
 
