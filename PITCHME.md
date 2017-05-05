@@ -1,8 +1,60 @@
 # KiCad
 
-### El futuro del hardware libre
+## El <span style="color: #fdb833">futuro</span> del hardware <span style="color: #fdb833">libre</span>
 
 ---
+
+# <span style="color: #fdb833">Hardware libre</span>: ¿por qué?
+
+Note:
+¿Qué es el hardware libre? Comunidad maker, impresoras 3D, repositorios de diseños 3D...
+
+---
+
+# KiCad
+## Software <span style="color: #fdb833">libre</span> para <span style="color: #fdb833">liberar</span> hardware
+
+Note:
+Descripción de diseño electrónico y de KiCad.
+
+---
+
+# ¿Cómo se hace KiCad?
+
+Note:
+Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
+Descripción de la comunidad tan guay.
+
+---
+
+# KiCad <span style="color: #fdb833" class="fragment">mola demasiado</span>
+
+Note:
+Cosas que molan: laptop, icezum, nice things.
+
+---
+
+# Va, mola, pero ¿cómo <span style="color: #fdb833" class="fragment">contribuyo</span>?
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # ¿Qué es KiCad?
 
