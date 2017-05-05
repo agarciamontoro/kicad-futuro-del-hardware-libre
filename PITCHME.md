@@ -159,7 +159,7 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++?image=https://www.bitcraze.io/images/frontpage/front-page-portal-pic-5.jpg
 
-# [Cacharros](https://www.bitcraze.io/) que vuelan
+# <span style="color: #222222">[Cacharros](https://www.bitcraze.io/) que vuelan</span>
 
 +++?image=http://blog.komar.be/wp-content/uploads/2013/02/3.jpg
 
