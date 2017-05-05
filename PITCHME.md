@@ -125,7 +125,8 @@ Descripción de la comunidad tan guay.
 
 +++
 
-# La era de <span style="color: #fdb833">la comunidad</span>
+# La era de
+# <span style="color: #fdb833" class="fragment">la comunidad</span>
 
 +++
 
