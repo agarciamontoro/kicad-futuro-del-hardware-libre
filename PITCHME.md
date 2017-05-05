@@ -305,7 +305,7 @@ board = pcbnew.GetBoard()
 
 # Gracias
 
-<span class="fragment" style="font-size: 80%;">
+<div class="fragment" style="font-size: 75%;">
 <i class="fa fa-twitter"></i>  xiroux
 
 <i class="fa fa-github"></i>  agarciamontoro
@@ -313,4 +313,4 @@ board = pcbnew.GetBoard()
 <i class="fa fa-user"></i>  xiroux@kosmos.social
 
 <i class="fa fa-envelope"></i>  alejandro.garciamontoro@gmail.com
-</span>
+</div>
