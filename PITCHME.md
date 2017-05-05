@@ -50,7 +50,7 @@ Note:
 
 #### Lo que nos interesa: <!-- .element: class="fragment" -->
 
-# Diseño electrónico <!-- .element: class="fragment" -->
+# <span style="color: #fdb833" class="fragment">Diseño electrónico</span>
 
 ---
 
