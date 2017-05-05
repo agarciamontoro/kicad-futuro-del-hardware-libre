@@ -38,6 +38,8 @@ Note:
 
 #### Compartir lo modificado.
 
+<img style="width: 20%; position: absolute; bottom: 0; right: 0" class="fragment" src="https://stallman.org/photos/australia/sydney-cockatiels/157-5746_IMG.JPG" />
+
 +++
 
 +++?image=https://c1.staticflickr.com/7/6225/6407709129_819361f41d_b.jpg
