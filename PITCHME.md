@@ -122,15 +122,17 @@ Cosas que molan: laptop, icezum, nice things.
 
 ![Wat?](http://memeshappen.com/media/created/-What-meme-12129.jpg)
 
-+++?image=http://zdnet4.cbsistatic.com/hub/i/2017/02/03/e7539f37-a7f5-4afe-ae98-e227a3c77dcf/00d737230fb87690ef5f3777d9fa75af/olimexteres.jpg
++++
 
-# Un portátil <span style="color: #fdb833">completamente</span> libre
+![Portátil](http://zdnet4.cbsistatic.com/hub/i/2017/02/03/e7539f37-a7f5-4afe-ae98-e227a3c77dcf/00d737230fb87690ef5f3777d9fa75af/olimexteres.jpg)
 
-<h3 style="color: #fdb833" class="fragment">[Proyecto de OLIMEX](https://www.olimex.com/Products/DIY-Laptop/)</h3>
++++
 
-<h3 style="color: #fdb833"class="fragment">[Software libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/SOFTWARE)</h3>
+<h3 style="color: #fdb833" class="fragment">Proyecto de [OLIMEX](https://www.olimex.com/Products/DIY-Laptop/)</h3>
 
-<h3 style="color: #fdb833" class="fragment">[Hardware libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/HARDWARE)</h3>
+<h3 style="color: #fdb833"class="fragment">Software [libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/SOFTWARE)</h3>
+
+<h3 style="color: #fdb833" class="fragment">Hardware [libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/SOFTWARE)</h3>
 
 +++
 
