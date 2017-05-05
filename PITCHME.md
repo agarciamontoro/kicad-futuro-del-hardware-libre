@@ -36,6 +36,12 @@ Note:
 
 #### Compartir lo modificado.
 
++++
+
++++?image=https://c1.staticflickr.com/7/6225/6407709129_819361f41d_b.jpg
+
+# Comunidad maker
+
 
 ---
 
