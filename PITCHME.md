@@ -186,15 +186,15 @@ Cosas que molan: laptop, icezum, nice things.
 
 # Comunidad
 
-### <i class="fa fa-code"></i> Launchpad: [launchpad.net/kicad](https://launchpad.net/kicad)
+### <i class="fa fa-code"></i> [launchpad.net/kicad](https://launchpad.net/kicad)
 
-### <i class="fa fa-envelope"></i> Lista de correo: [kicad-developers](http://lists.launchpad.net/kicad-developers)
+### <i class="fa fa-envelope"></i> [kicad-developers](http://lists.launchpad.net/kicad-developers)
 
-### <i class="fa fa-hashtag"></i> IRC: #kicad
+### <i class="fa fa-hashtag"></i> IRC/#kicad
 
-### <i class="fa fa-users"></i> Foro de usuarios: [forum.kicad.info](https://forum.kicad.info)
+### <i class="fa fa-users"></i> [forum.kicad.info](https://forum.kicad.info)
 
-### <i class="fa fa-github"></i> Github: [github.com/kicad](https://github.com/kicad)
+### <i class="fa fa-github"></i> [github.com/kicad](https://github.com/kicad)
 
 ---
 
