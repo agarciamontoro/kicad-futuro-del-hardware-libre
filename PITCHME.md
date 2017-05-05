@@ -90,14 +90,17 @@ Note:
 Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
 Descripción de la comunidad tan guay.
 
++++?image=https://images.unsplash.com/photo-1456154875099-97a3a56074d3?dpr=1.0909091234207153&auto=format&fit=crop&w=1500&h=844&q=80&cs=tinysrgb&crop=&bg=
+
+# Hace <span style="color: #fdb833">mucho</span>, <span style="color: #fdb833">mucho</span> tiempo
+
 +++
 
-Al principio de los tiempos...
+# <span class="fragment"><span style="color: #ee0000">No había control de versiones</span>
+# <span class="fragment"><span style="color: #ee0000">No había comunidad</span>
+# <span class="fragment">Se liberaba el código en un .tar</span>
 
-- Jean Pierre
-- No había control de versiones |
-- No había comunidad |
-- Se liberaba el código en un .tar |
++++?image=https://media.giphy.com/media/kR0S22SGVDm4o/giphy.gif
 
 +++?image=https://c1.staticflickr.com/2/1676/25292996336_25851362bf_b.jpg
 
