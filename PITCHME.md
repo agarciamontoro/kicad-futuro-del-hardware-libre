@@ -121,9 +121,11 @@ Descripción de la comunidad tan guay.
 
 # <span class="fragment">EL CERN</span>
 
-+++?image=http://www.reactiongifs.com/r/mog2.gif
++++?image=https://media.giphy.com/media/eiwhyYQxUR4hq/giphy.gif
 
++++
 
+# <i class="fa fa-git"></i>
 
 ---
 
