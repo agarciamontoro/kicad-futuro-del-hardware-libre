@@ -23,6 +23,8 @@ Note:
 
 #### Compartir lo modificado. <!-- .element: class="fragment" -->
 
+![Richard Stallman molando fuerte](https://stallman.org/photos/australia/sydney-cockatiels/157-5746_IMG.JPG)
+
 +++
 
 ### <span style="text-decoration: underline;"><span style="color: #fdb833">Hardware</span> libre</span>
