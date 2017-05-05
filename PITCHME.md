@@ -305,7 +305,7 @@ board = pcbnew.GetBoard()
 
 # Gracias
 
-<span style="text-align:left">
+<span style="text-align: left">
 <i class="fa fa-twitter"></i>  xiroux
 
 <i class="fa fa-github"></i>  agarciamontoro
