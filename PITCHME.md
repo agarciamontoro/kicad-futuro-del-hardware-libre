@@ -24,7 +24,9 @@
 
 +++?image=http://kicad-pcb.org/img/frontpage/kicad_3dviewer.png
 
-+++?video=https://www.youtube.com/embed/D3it8wyJef0?start=15
++++
+
+![Video](https://www.youtube.com/embed/D3it8wyJef0?start=15)
 
 ---
 
