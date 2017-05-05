@@ -23,7 +23,7 @@ Note:
 
 #### Compartir lo modificado. <!-- .element: class="fragment" -->
 
-<img style="width: 25%; position: absolute; bottom: 0; right: 0" class="fragment" src="https://stallman.org/photos/australia/sydney-cockatiels/157-5746_IMG.JPG" />
+<img style="width: 10%; position: absolute; bottom: 0; right: 0" class="fragment" src="https://stallman.org/photos/australia/sydney-cockatiels/157-5746_IMG.JPG" />
 
 +++
 
