@@ -96,15 +96,31 @@ Descripción de la comunidad tan guay.
 
 +++
 
+# La <span style="color: #fdb833">era</span> Jean-Pierre Charras
+
 ### <span class="fragment"><span style="color: #ee0000">No</span> había control de versiones</span>
 ### <span class="fragment"><span style="color: #ee0000">No</span> había comunidad</span>
 ### <span class="fragment">Se liberaba el código en un .tar</span>
 
 +++?image=https://media.giphy.com/media/kR0S22SGVDm4o/giphy.gif
 
++++
+
+# La <span style="color: #fdb833">era</span> Wayne Stambaugh I
+
+### <span class="fragment">Se añade control de versiones</span>
+### <span class="fragment">Se empiezan a incorporar colaboradores</span>
+### <span class="fragment">Se libera el código en SourceForge</span>
+
++++?image=https://www.wired.com/images_blogs/underwire/2014/02/michael-jackson-eating-popcorn.gif
+
++++
+
+### El proyecto <span style="color: #fdb833">no para</span> de crecer,
+## hasta que un día llega... <!-- .element: class="fragment" -->
+
 +++?image=https://c1.staticflickr.com/2/1676/25292996336_25851362bf_b.jpg
 
-#### Hasta que llegó...
 # <span class="fragment">EL CERN</span>
 
 +++?image=http://www.reactiongifs.com/r/mog2.gif
