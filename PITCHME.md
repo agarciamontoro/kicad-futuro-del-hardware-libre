@@ -4,22 +4,22 @@
 
 ---
 
-# <span style="color: #fdb833">Hardware libre</span>: ¿por qué?
+## <span style="color: #fdb833">Hardware libre</span>: ¿por qué?
 
 Note:
 ¿Qué es el hardware libre? Comunidad maker, impresoras 3D, repositorios de diseños 3D...
 
 ---
 
-# KiCad
-## Software <span style="color: #fdb833">libre</span> para <span style="color: #fdb833">liberar</span> hardware
+## KiCad
+### Software <span style="color: #fdb833">libre</span> para <span style="color: #fdb833">liberar</span> hardware
 
 Note:
 Descripción de diseño electrónico y de KiCad.
 
 ---
 
-# ¿Cómo se hace KiCad?
+## Los <span style="color: #fdb833">entresijos</span> de KiCad
 
 Note:
 Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
@@ -27,14 +27,16 @@ Descripción de la comunidad tan guay.
 
 ---
 
-# KiCad <span style="color: #fdb833" class="fragment">mola demasiado</span>
+## KiCad
+### <span style="color: #fdb833" class="fragment">mola demasiado</span>
 
 Note:
 Cosas que molan: laptop, icezum, nice things.
 
 ---
 
-# Va, mola, pero ¿cómo <span style="color: #fdb833" class="fragment">contribuyo</span>?
+## Va, mola, pero
+## <span class="fragment">¿cómo <span style="color: #fdb833" class="fragment">contribuyo</span></span>?
 
 ---
 
