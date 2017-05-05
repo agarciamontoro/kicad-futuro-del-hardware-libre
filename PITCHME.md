@@ -126,6 +126,12 @@ Cosas que molan: laptop, icezum, nice things.
 
 ![Portátil](http://zdnet4.cbsistatic.com/hub/i/2017/02/03/e7539f37-a7f5-4afe-ae98-e227a3c77dcf/00d737230fb87690ef5f3777d9fa75af/olimexteres.jpg)
 
+<h3 style="color: #fdb833" class="fragment">[Proyecto de OLIMEX](https://www.olimex.com/Products/DIY-Laptop/)</h3>
+
+<h3 style="color: #fdb833"class="fragment">[Software libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/SOFTWARE)</h3>
+
+<h3 style="color: #fdb833" class="fragment">[Hardware libre](https://github.com/OLIMEX/DIY-LAPTOP/tree/master/HARDWARE)</h3>
+
 +++
 
 ## La mejor placa FPGA
@@ -138,6 +144,8 @@ Cosas que molan: laptop, icezum, nice things.
 # <span style="color: #fdb833">La IceZUM Alhambra</span> <!-- .element: class="fragment" -->
 
 +++?image=https://raw.githubusercontent.com/FPGAwars/icezum/master/wiki/V1.1-RC1/icezum-alhambra-v1.1.jpg
+
++++
 
 # Placa <span style="color: #fdb833">FPGA</span> libre
 
