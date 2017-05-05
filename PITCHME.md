@@ -50,7 +50,7 @@ Note:
 
 +++?image=https://c1.staticflickr.com/4/3179/2924229115_0ab2d7ea4a_b.jpg
 
-#### <span style="color: #fdb833">Lo que nos interesa:</span>
+#### <span style="color: #222222">Lo que nos interesa:</span>
 
 # <span style="color: #fdb833" class="fragment">Diseño electrónico</span>
 
@@ -159,7 +159,7 @@ Cosas que molan: laptop, icezum, nice things.
 
 +++?image=https://www.bitcraze.io/images/frontpage/front-page-portal-pic-5.jpg
 
-# <span style="color: #222222">[Cacharros](https://www.bitcraze.io/) que vuelan</span>
+# <span style="color: #fdb833">[Cacharros](https://www.bitcraze.io/) que vuelan</span>
 
 +++?image=http://blog.komar.be/wp-content/uploads/2013/02/3.jpg
 
