@@ -182,6 +182,20 @@ Cosas que molan: laptop, icezum, nice things.
 ## Va, mola, pero
 # <span class="fragment">¿cómo <span style="color: #fdb833">contribuyo</span>?</span>
 
++++
+
+# Comunidad
+
+### <i class="fa fa-code"></i> Launchpad: [launchpad.net/kicad](https://launchpad.net/kicad)
+
+### <i class="fa fa-envelope"></i> Lista de correo: [kicad-developers](http://lists.launchpad.net/kicad-developers)
+
+### <i class="fa fa-hashtag"></i> IRC: #kicad
+
+### <i class="fa fa-users"></i> Foro de usuarios: [forum.kicad.info](https://forum.kicad.info)
+
+### <i class="fa fa-github"></i> Github: [github.com/kicad](https://github.com/kicad)
+
 ---
 
 # Gracias
