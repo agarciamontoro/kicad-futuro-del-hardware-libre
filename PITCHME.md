@@ -57,7 +57,7 @@ Hablar de qué es el diseño electrónico
 
 ---
 
-## KiCad
+# KiCad
 ### Software <span style="color: #fdb833">libre</span> para <span style="color: #fdb833">liberar</span> hardware
 
 Note:
@@ -82,7 +82,7 @@ Descripción de KiCad.
 
 ---
 
-# Los <span style="color: #fdb833">entresijos</span> de KiCad
+# La <span style="color: #fdb833">historia</span> de KiCad
 
 Note:
 Historia de KiCad: JP, no VCS, Dirk + Wayne, CERN -> SUCCESS.
@@ -90,8 +90,8 @@ Descripción de la comunidad tan guay.
 
 +++?image=https://c1.staticflickr.com/2/1676/25292996336_25851362bf_b.jpg
 
-### Hasta que llegó...
-# <span style="color: #fdb833" class="fragment">EL CERN</span>
+#### Hasta que llegó...
+# <span class="fragment">EL CERN</span>
 
 ---
 
