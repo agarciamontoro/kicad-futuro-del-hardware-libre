@@ -304,3 +304,12 @@ board = pcbnew.GetBoard()
 ---
 
 # Gracias
+
+
+<i class="fa fa-twitter"></i>/xiroux
+
+<i class="fa fa-github"></i>/agarciamontoro
+
+<i class="fa fa-user"></i>xiroux@kosmos.social
+
+<i class="fa fa-envelope"></i>alejandro.garciamontoro@gmail.com
