@@ -137,7 +137,7 @@ Descripción de la comunidad tan guay.
 
 +++
 
-![Footprint editor](https://vimeo.com/99235812#t=120s)
+![Footprint editor](https://player.vimeo.com/video/99235812#t=120s)
 
 
 ---
