@@ -131,7 +131,11 @@ Descripción de la comunidad tan guay.
 
 ![Push and Shove router](https://www.youtube.com/embed/CCG4daPvuVI?t=377)
 
-![Length tuning]https://www.youtube.com/embed/chejn7dqpfQ?t=428
++++
+
+![Length tuning](https://www.youtube.com/embed/chejn7dqpfQ?t=428)
+
++++
 
 ![Footprint editor](https://vimeo.com/99235812#t=120s)
 
